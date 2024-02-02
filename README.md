@@ -1,4 +1,4 @@
-# saivamshi-reddy-vongeti.github.io
+# saivamshi-reddy-vongeti
 
 Welcome to my portfolio! This project is my personal website built using GitHub Pages. It showcases my projects, skills, and provides information about me.
 
