@@ -17,4 +17,4 @@ Visit my portfolio: [https://saivamshi-reddy-vongeti.github.io/]
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SVR187/saivamshi-reddy-vongeti.github.io.git
+   git clone https://github.com/SVR187/saivamshi-reddy-vongeti.git
